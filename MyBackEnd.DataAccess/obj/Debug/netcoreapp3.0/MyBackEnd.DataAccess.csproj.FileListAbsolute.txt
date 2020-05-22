@@ -1,0 +1,17 @@
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.DataAccess\bin\Debug\netcoreapp3.0\MyBackEnd.DataAccess.deps.json
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.DataAccess\bin\Debug\netcoreapp3.0\MyBackEnd.DataAccess.runtimeconfig.json
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.DataAccess\bin\Debug\netcoreapp3.0\MyBackEnd.DataAccess.runtimeconfig.dev.json
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.DataAccess\bin\Debug\netcoreapp3.0\MyBackEnd.DataAccess.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.DataAccess\bin\Debug\netcoreapp3.0\MyBackEnd.DataAccess.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.DataAccess\bin\Debug\netcoreapp3.0\MyBackEnd.Core.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.DataAccess\bin\Debug\netcoreapp3.0\MyBackEnd.Entities.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.DataAccess\bin\Debug\netcoreapp3.0\MyBackEnd.Entities.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.DataAccess\bin\Debug\netcoreapp3.0\MyBackEnd.Core.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.DataAccess\obj\Debug\netcoreapp3.0\MyBackEnd.DataAccess.csprojAssemblyReference.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.DataAccess\obj\Debug\netcoreapp3.0\MyBackEnd.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.DataAccess\obj\Debug\netcoreapp3.0\MyBackEnd.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.DataAccess\obj\Debug\netcoreapp3.0\MyBackEnd.DataAccess.AssemblyInfo.cs
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.DataAccess\obj\Debug\netcoreapp3.0\MyBackEnd.DataAccess.csproj.CopyComplete
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.DataAccess\obj\Debug\netcoreapp3.0\MyBackEnd.DataAccess.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.DataAccess\obj\Debug\netcoreapp3.0\MyBackEnd.DataAccess.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.DataAccess\obj\Debug\netcoreapp3.0\MyBackEnd.DataAccess.genruntimeconfig.cache

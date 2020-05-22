@@ -1,0 +1,16 @@
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness\bin\Debug\netstandard2.0\MyBackEnd.Bussiness.deps.json
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness\bin\Debug\netstandard2.0\MyBackEnd.Bussiness.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness\bin\Debug\netstandard2.0\MyBackEnd.Bussiness.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness\bin\Debug\netstandard2.0\MyBackEnd.Core.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness\bin\Debug\netstandard2.0\MyBackEnd.DataAccess.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness\bin\Debug\netstandard2.0\MyBackEnd.Entities.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness\bin\Debug\netstandard2.0\MyBackEnd.DataAccess.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness\bin\Debug\netstandard2.0\MyBackEnd.Entities.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness\bin\Debug\netstandard2.0\MyBackEnd.Core.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness\obj\Debug\netstandard2.0\MyBackEnd.Bussiness.csprojAssemblyReference.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness\obj\Debug\netstandard2.0\MyBackEnd.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness\obj\Debug\netstandard2.0\MyBackEnd.Bussiness.AssemblyInfo.cs
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness\obj\Debug\netstandard2.0\MyBackEnd.Bussiness.csproj.CopyComplete
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness\obj\Debug\netstandard2.0\MyBackEnd.Bussiness.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness\obj\Debug\netstandard2.0\MyBackEnd.Bussiness.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness\obj\Debug\netstandard2.0\MyBackEnd.Bussiness.csproj.CoreCompileInputs.cache

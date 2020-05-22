@@ -1,0 +1,12 @@
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Entities\bin\Debug\netstandard2.0\MyBackEnd.Entities.deps.json
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Entities\bin\Debug\netstandard2.0\MyBackEnd.Entities.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Entities\bin\Debug\netstandard2.0\MyBackEnd.Entities.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Entities\bin\Debug\netstandard2.0\MyBackEnd.Core.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Entities\bin\Debug\netstandard2.0\MyBackEnd.Core.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Entities\obj\Debug\netstandard2.0\MyBackEnd.Entities.csprojAssemblyReference.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Entities\obj\Debug\netstandard2.0\MyBackEnd.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Entities\obj\Debug\netstandard2.0\MyBackEnd.Entities.AssemblyInfoInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Entities\obj\Debug\netstandard2.0\MyBackEnd.Entities.AssemblyInfo.cs
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Entities\obj\Debug\netstandard2.0\MyBackEnd.Entities.csproj.CopyComplete
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Entities\obj\Debug\netstandard2.0\MyBackEnd.Entities.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Entities\obj\Debug\netstandard2.0\MyBackEnd.Entities.pdb
