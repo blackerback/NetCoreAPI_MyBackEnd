@@ -1,7 +1,6 @@
 C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Core\bin\Debug\netcoreapp3.0\MyBackEnd.Core.deps.json
 C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Core\bin\Debug\netcoreapp3.0\MyBackEnd.Core.dll
 C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Core\bin\Debug\netcoreapp3.0\MyBackEnd.Core.pdb
-C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Core\obj\Debug\netcoreapp3.0\MyBackEnd.Core.csprojAssemblyReference.cache
 C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Core\obj\Debug\netcoreapp3.0\MyBackEnd.Core.csproj.CoreCompileInputs.cache
 C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Core\obj\Debug\netcoreapp3.0\MyBackEnd.Core.AssemblyInfoInputs.cache
 C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Core\obj\Debug\netcoreapp3.0\MyBackEnd.Core.AssemblyInfo.cs

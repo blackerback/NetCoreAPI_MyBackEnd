@@ -5,6 +5,7 @@ C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\
 C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness_Test\bin\Debug\netcoreapp3.1\MyBackEnd.Bussiness_Test.runtimeconfig.json
 C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness_Test\bin\Debug\netcoreapp3.1\MyBackEnd.Bussiness_Test.runtimeconfig.dev.json
 C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness_Test\bin\Debug\netcoreapp3.1\MyBackEnd.Bussiness_Test.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness_Test\bin\Debug\netcoreapp3.1\MyBackEnd.Bussiness_Test.pdb
 C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness_Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness_Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness_Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -85,8 +86,10 @@ C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\
 C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness_Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness_Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness_Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness_Test\obj\Debug\netcoreapp3.1\MyBackEnd.Bussiness_Test.csprojAssemblyReference.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness_Test\obj\Debug\netcoreapp3.1\MyBackEnd.Bussiness_Test.csproj.CoreCompileInputs.cache
 C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness_Test\obj\Debug\netcoreapp3.1\MyBackEnd.Bussiness_Test.AssemblyInfoInputs.cache
 C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness_Test\obj\Debug\netcoreapp3.1\MyBackEnd.Bussiness_Test.AssemblyInfo.cs
 C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness_Test\obj\Debug\netcoreapp3.1\MyBackEnd.Bussiness_Test.csproj.CopyComplete
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness_Test\obj\Debug\netcoreapp3.1\MyBackEnd.Bussiness_Test.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness_Test\obj\Debug\netcoreapp3.1\MyBackEnd.Bussiness_Test.pdb
 C:\Users\Blackerback\OneDrive\Masaüstü\MyProject\C# My Back End API\MyBackEnd\MyBackEnd.Bussiness_Test\obj\Debug\netcoreapp3.1\MyBackEnd.Bussiness_Test.genruntimeconfig.cache
